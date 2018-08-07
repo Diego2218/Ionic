@@ -1,0 +1,7 @@
+{
+  "name": "MyFirstP",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
